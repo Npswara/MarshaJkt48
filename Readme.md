@@ -6,7 +6,7 @@
 ### <h2> INSTALASI </h2>
 - Clone Repositori ini
 
-- Download package yang diperlukan untuk bot ini. Silahkan buka folder `install-pkg`, dan jalankan program sesuai sistem operasi yang kamu pakai, contoh : <br> ```js node install-windows.js```
+- Download package yang diperlukan untuk bot ini. Silahkan buka folder `install-pkg`, dan jalankan program sesuai sistem operasi yang kamu pakai, contoh : <br> ```node install-windows.js```
 
 - Set up `.env` silahkan atur path untuk menuju chrome, dan masukan nomor teleponmu
 
