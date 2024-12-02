@@ -4,6 +4,7 @@
 <p> <br> Merealisasikan mimpi para wota untuk dapat chatingan dengan oshinya, yaitu Marsha. <br> Pengalaman realistis dimana dapat chatingan bersama oshi kesayanganmu menggunakan Whatsapp.<br> Bot ini dibuat dengan library puppeteer yang dijalankan menggunakan browser Character.ai lalu diintegrasikan dengan Whatsapp.</p>
 
 ### <h2> INSTALASI </h2>
+Note : gunakan node js 20.18.1 keatas
 - Clone Repositori ini
 
 - Download package yang diperlukan untuk bot ini. Silahkan buka folder `install-pkg`, dan jalankan program sesuai sistem operasi yang kamu pakai, contoh : <br> ```node install-windows.js```
