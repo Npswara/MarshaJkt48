@@ -14,7 +14,7 @@ Note : Gunakan Node Js 20.18.1 keatas
 
 - Jika sudah semua dilakukan dengan benar, bot pasti aktif. Selamat mencoba !
 
-[Support me](https://saweria.co/parameswara)
+<img src="https://media.discordapp.net/attachments/1286630989795430423/1313155181403177021/saweria.png?ex=674f1a90&is=674dc910&hm=dddeabcb8c73f5746fae2a116e6abed0fb74070ce92ae4689d3e9a265ea485c2&=&format=webp&quality=lossless&width=400&height=400" alt="MarshaJKT48" width="30">[Support me](https://saweria.co/parameswara)
 
 ---
 
