@@ -14,6 +14,8 @@ Note : Gunakan Node Js 20.18.1 keatas
 
 - Jika sudah semua dilakukan dengan benar, bot pasti aktif. Selamat mencoba !
 
+  [!Support me](https://saweria.co/parameswara)
+
 ---
 
 © 2024 Npswara - Semua hak dilindungi MIT.
