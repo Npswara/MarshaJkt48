@@ -11,7 +11,9 @@ Note : Gunakan Node Js 20.18.1 keatas
 
 - Set up `.env` silahkan atur path untuk menuju chrome, dan masukan nomor teleponmu
 
-- Jika sudah semua dijalankan dengan benar, bot pasti aktif. Selamat mencoba !
+- Lalu jalankan `node main.js`
+
+- Jika sudah semua dilakukan dengan benar, bot pasti aktif. Selamat mencoba !
 
 ---
 
