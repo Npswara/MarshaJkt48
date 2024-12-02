@@ -1,6 +1,5 @@
 ### <h1> Marsha JKT48 Bot Whatsapp </h1>
 <img src="./Asset/img-vid/marsha.jpg" alt="MarshaJKT48" width="400">
-<br>
 <p> <br> Merealisasikan mimpi para wota untuk dapat chatingan dengan oshinya, yaitu Marsha. <br> Pengalaman realistis dimana dapat chatingan bersama oshi kesayanganmu menggunakan Whatsapp.<br> Bot ini dibuat dengan library puppeteer yang dijalankan menggunakan browser Character.ai lalu diintegrasikan dengan Whatsapp.</p>
 
 ### <h2> INSTALASI </h2>
